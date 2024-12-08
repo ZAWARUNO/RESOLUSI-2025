@@ -6,3 +6,4 @@ SENIN
 SELASA
 1.Mengulang Pelajaran Disekolah 
 2.Belajar Bahasa Jepang
+
